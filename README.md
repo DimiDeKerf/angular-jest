@@ -1,5 +1,7 @@
 # AngularJest
 
+Angular project configured with Jest, to compare the configuration and performance between Jest and Karma.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.7.
 
 ## Development server
@@ -17,6 +19,14 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running unit tests with Jest
+
+Run `ng jest` to execute the unit tests via [Jest](http://facebook.github.io/jest/).
+
+Run `ng jest:watch` to enable watch mode.
+
+Run `ng jest:coverage` to generate coverage reports.
 
 ## Running end-to-end tests
 
